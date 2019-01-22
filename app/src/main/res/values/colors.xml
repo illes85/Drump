@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="BackgroundGray">#ECEFF1</color>
+    <color name="BackgroundYellow">#F4FF81</color>
+    <color name="BackgroundGreen">#B2FF59</color>
+    <color name="BackgroundPurple">#B388FF</color>
+    <color name="BackgroundPink">#F8BBD0</color>
+    <color name="BackgroundRed">#FF1744</color>
+    <color name="BackgroundCyan">#84FFFF</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+</resources>
